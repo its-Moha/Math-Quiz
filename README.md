@@ -5,14 +5,14 @@
 ♦️ Older students can also take the quizzes to sharpen themselves up!. \
 
 # 📱 Features
-♦️ Educational (General knowledge).
-♦️ randomly generates basic mathematics questions (+,-,×,÷).
-♦️ Correct answer option score x1
-♦️ Timmer 30sec.
-♦️ Good and Extensible UI.
-♦️ have Good Dashboard Design
-♦️ Demonstrates the design of a complex layout
-♦️ java classes and game play
+♦️ Educational (General knowledge). \
+♦️ randomly generates basic mathematics questions (+,-,×,÷). \
+♦️ Correct answer option score x1. \
+♦️ Timmer 30sec. \
+♦️ Good and Extensible UI. \
+♦️ have Good Dashboard Design. \
+♦️ Demonstrates the design of a complex layout. \
+♦️ java classes and game play. \
 
 # 📷 Screenshots
 <div align="center">
