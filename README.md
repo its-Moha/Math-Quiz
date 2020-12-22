@@ -7,12 +7,14 @@
 # 📱 Features
 ♦️ Educational (General knowledge). \
 ♦️ randomly generates basic mathematics questions (+,-,×,÷). \
-♦️ Correct answer option score x1. \
-♦️ Timmer 30sec. \
+♦️ Correct answer +1 Score (Coins at top right corner). \
+♦️ Timmer of 30 sec for each question (Timer at top left corner). \
 ♦️ Good and Extensible UI. \
 ♦️ have Good Dashboard Design. \
 ♦️ Demonstrates the design of a complex layout. \
 ♦️ java classes and game play. \
+♦️ Button listeners. \
+♦️ program flows.
 
 # 📷 Screenshots
 <div align="center">
